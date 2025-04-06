@@ -1,0 +1,27 @@
+Mohd. Ahmed Khan v. Shah Bano Begum (1985)
+A watershed case that addressed the rights of divorced Muslim women to maintenance and triggered major political and legal debates on personal laws and secularism.
+
+Background:
+Shah Bano, a 62-year-old Muslim woman, was divorced by her husband of 43 years through triple talaq. After the divorce, her husband stopped paying maintenance. Shah Bano filed a petition under Section 125 of the Criminal Procedure Code (CrPC), which provides for maintenance to wives, children, and parents. The husband argued that under Muslim personal law, his responsibility was limited to the payment of mehr (dower) and maintenance during the iddat period (approximately three months after divorce).
+
+Legal Questions:
+1. Does Section 125 CrPC apply to Muslims, or is it overridden by Muslim personal law?
+2. Is a Muslim husband's obligation to provide maintenance limited to the iddat period?
+3. How should the Court interpret the relationship between secular law and religious personal law?
+
+Arguments:
+Shah Bano argued that Section 125 CrPC was a secular provision applicable to all citizens regardless of religion, and she was entitled to maintenance as a destitute divorced woman.
+
+Mohd. Ahmed Khan contended that under Muslim personal law, particularly after the payment of mehr and maintenance during iddat, he had no further obligation to his divorced wife.
+
+Decision:
+In a unanimous decision, the Supreme Court held that:
+- Section 125 CrPC is a secular provision applicable to all citizens irrespective of religion
+- A Muslim husband's obligation to provide maintenance to his divorced wife extends beyond the iddat period if she is unable to maintain herself
+- There is no conflict between the provisions of Section 125 and Muslim personal law
+- The Court also called upon the government to frame a uniform civil code as envisaged in Article 44 of the Constitution
+
+The Court interpreted verses from the Quran to support its conclusion that Islamic law itself imposes an obligation on Muslim husbands to provide for their divorced wives who are unable to maintain themselves.
+
+Legacy:
+The judgment led to intense political controversy. Under pressure from conservative Muslim groups, the government enacted the Muslim Women (Protection of Rights on Divorce) Act, 1986, which effectively nullified the Supreme Court's decision by exempting Muslim women from Section 125 CrPC. However, in subsequent cases like Danial Latifi v. Union of India (2001), the Court interpreted this Act in a way that ultimately secured comparable rights for Muslim women. The case remains a landmark in debates around gender justice, religious personal laws, and the need for a uniform civil code in India.

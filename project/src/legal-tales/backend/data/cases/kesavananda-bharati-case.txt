@@ -1,0 +1,32 @@
+Kesavananda Bharati v. State of Kerala (1973)
+The most significant constitutional case in Indian history that established the "Basic Structure Doctrine" which limits Parliament's power to amend the Constitution.
+
+Background:
+His Holiness Kesavananda Bharati, the head of a Hindu Mutt in Kerala, challenged the Kerala Land Reforms Act which imposed restrictions on the management of religious property. The case expanded to challenge the validity of several constitutional amendments, particularly the 24th, 25th, and 29th Amendments.
+
+Legal Questions:
+1. Does Parliament have unlimited power to amend the Constitution under Article 368?
+2. Can fundamental rights be abridged or taken away by constitutional amendments?
+3. What are the limitations, if any, on Parliament's amending power?
+
+Arguments:
+The petitioners argued that Parliament's amending power was limited and could not destroy the "basic structure" or "essential features" of the Constitution.
+
+The state argued that Parliament had unlimited power to amend any part of the Constitution, including fundamental rights.
+
+Decision:
+In a 7-6 majority decision delivered after 68 days of hearings, the Supreme Court held that:
+- Parliament has wide powers to amend the Constitution
+- However, it cannot amend the "basic structure" or "essential features" of the Constitution
+- What constitutes the "basic structure" would be determined by the Court on a case-by-case basis
+
+The Court identified several features as part of the basic structure:
+- Supremacy of the Constitution
+- Republican and democratic form of government
+- Secular character of the Constitution
+- Separation of powers
+- Federal character of the Constitution
+- Sovereignty of India
+
+Legacy:
+This decision has become the cornerstone of Indian constitutional law. It acts as a check on Parliament's power and ensures that the fundamental principles of the Constitution cannot be destroyed through amendments. It has been invoked in numerous subsequent cases to invalidate constitutional amendments and protect the Constitution's integrity.
